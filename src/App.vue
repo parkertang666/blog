@@ -22,7 +22,7 @@
 
   a {
     font-weight: bold;
-    color: #666;
+    color: #555;
 
     &.router-link-exact-active {
       color: #42b983;
